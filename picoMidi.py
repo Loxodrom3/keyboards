@@ -69,7 +69,7 @@ pins = [
     board.GP12,
     board.GP11,
     board.GP10,
-    board.GP6
+    board.GP14
 ]
 
 
